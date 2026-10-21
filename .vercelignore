@@ -1,0 +1,4 @@
+# Ignore large documents not required at runtime
+docs/
+.git/
+README.md
